@@ -1,1 +1,27 @@
-p{ color: blue}
+body{
+  background-image : url("https://i.ibb.co/q708RHP/art-background-close-up-1939485.jpg");
+  background-repeat: no-repeat; 
+  font-family: comic-sans;
+  
+}
+
+
+div{
+  background-color: black;
+  width: full;
+  height:6px;
+}
+
+p{font-size: 24px;}
+
+h1 { font-family: comic-sans;
+  font-size: 38px;
+  letter-spacing : 2px;
+}
+h3{
+  font-size: 24px;
+}
+h2{
+  font-size: 26px;
+  letter-spacing: 2px;
+}
